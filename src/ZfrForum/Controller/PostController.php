@@ -21,7 +21,7 @@ namespace ZfrForum\Controller;
 use Zend\Mvc\Controller\AbstractActionController;
 use ZfrForum\Service\PostService;
 
-class PostRestController extends AbstractActionController
+class PostController extends AbstractActionController
 {
     /**
      * @var PostService

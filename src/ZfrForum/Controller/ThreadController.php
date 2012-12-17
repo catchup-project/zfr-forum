@@ -21,7 +21,7 @@ namespace ZfrForum\Controller;
 use Zend\Mvc\Controller\AbstractActionController;
 use ZfrForum\Service\ThreadService;
 
-class ThreadRestController extends AbstractActionController
+class ThreadController extends AbstractActionController
 {
     /**
      * @var ThreadService
