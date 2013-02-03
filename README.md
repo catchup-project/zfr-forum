@@ -2,6 +2,12 @@
 
 Master: [![Build Status](https://secure.travis-ci.org/zf-fr/ZfrForum.png)](http://secure.travis-ci.org/zf-fr/ZfrForum)
 
+NOTE : the development of ZfrForum is currently halted (mainly because I'm working on ZfrRest, which is a module
+that simplify REST that I need for my next project and that Zend Framework 2 really needs to have, and also because
+I will be launching my first website soon, so I kinda lack of time). However, we plan to finish it (we hope this year),
+but if you want to contribute don't hesitate, I'll carefully review any PR !).
+
+Thanks for waiting !
 
 ---
 
